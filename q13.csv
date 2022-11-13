@@ -1,16 +1,31 @@
-week_in_month,Payment,Count
-1,Cash,81
-1,Credit card,76
-1,Ewallet,88
-2,Cash,75
-2,Credit card,81
-2,Ewallet,79
-3,Cash,80
-3,Credit card,70
-3,Ewallet,70
-4,Cash,87
-4,Credit card,71
-4,Ewallet,88
-5,Cash,21
-5,Credit card,13
-5,Ewallet,20
+week_in_month,Gender,Payment,Count
+1,Female,Cash,43
+1,Female,Credit card,42
+1,Female,Ewallet,47
+1,Male,Cash,38
+1,Male,Credit card,34
+1,Male,Ewallet,41
+2,Female,Cash,41
+2,Female,Credit card,45
+2,Female,Ewallet,33
+2,Male,Cash,34
+2,Male,Credit card,36
+2,Male,Ewallet,46
+3,Female,Cash,42
+3,Female,Credit card,28
+3,Female,Ewallet,33
+3,Male,Cash,38
+3,Male,Credit card,42
+3,Male,Ewallet,37
+4,Female,Cash,45
+4,Female,Credit card,40
+4,Female,Ewallet,40
+4,Male,Cash,42
+4,Male,Credit card,31
+4,Male,Ewallet,48
+5,Female,Cash,7
+5,Female,Credit card,8
+5,Female,Ewallet,7
+5,Male,Cash,14
+5,Male,Credit card,5
+5,Male,Ewallet,13
