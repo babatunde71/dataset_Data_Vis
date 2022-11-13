@@ -1,10 +1,16 @@
-Month,Payment,Count
-1,Cash,122
-1,Credit card,113
-1,Ewallet,117
-2,Cash,112
-2,Credit card,90
-2,Ewallet,101
-3,Cash,110
-3,Credit card,108
-3,Ewallet,127
+week_in_month,Payment,Count
+1,Cash,81
+1,Credit card,76
+1,Ewallet,88
+2,Cash,75
+2,Credit card,81
+2,Ewallet,79
+3,Cash,80
+3,Credit card,70
+3,Ewallet,70
+4,Cash,87
+4,Credit card,71
+4,Ewallet,88
+5,Cash,21
+5,Credit card,13
+5,Ewallet,20
